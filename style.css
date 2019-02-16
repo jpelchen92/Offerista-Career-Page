@@ -1,0 +1,72 @@
+h1 {
+color: orange;
+font-family: 'Felipa', cursive;
+background: grey;
+padding: 50px;
+margin: 10;
+border: 5px dashed white;
+border-radius: 20%;
+}
+
+
+p {
+color: orange;
+font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+color: white;
+font-family: 'Felipa', cursive;
+padding: -10px;
+text-align:center;
+
+}
+
+a {
+text-decoration: none;
+color: white;
+}
+
+a:hover {
+color: pink;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+
+#banner h1 {
+color: orange;
+}
+
+.header p {
+	font-size: 40px;
+}
+
+ul {
+	color: orange;
+}
+
+footer {
+	background-color: grey;
+	background-size: cover;
+	height: 35vh;
+	width: 100vw;
+
+}
+
+.fab {color:orange;}
+
+.fab:hiver {
+	color:pink;
+}
